@@ -60,7 +60,7 @@ sizeof(WatchData) is 48 bytes (6 times 8) and it's mapping in memory is:
   </tr>
   <tr>
     <td><strong>float</strong> acceleration.x</td>
-    <td><strong>float</strong> acceleration.x</td>
+    <td><strong>float</strong> acceleration.y</td>
   </tr>
   <tr>
     <td><strong>float</strong> acceleration.z</td>
