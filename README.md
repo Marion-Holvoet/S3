@@ -31,6 +31,51 @@ As Kanye West said:
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
-Content1 in the first column | Content1 in the second column
+Content1 in the first column | :
 Content2 in the first column | Content2 in the second column
 Content3 in the first column | Content3 in the second column
+
+```
+typedef struct {
+  unsigned long long timestamp;
+  struct {
+      float x, y, z;
+  } acceleration;
+  struct {
+      float x, y, z;
+    struct {
+        float x, y, z;
+    } drift;
+  } gyroscope;
+} WatchData;
+```
+WatchData uses 48 bytes as shown by C sizeof and it's mapping in memory is:
+ <table>
+  <tr>
+    <th>4 bytes (32 bits)</th>
+    <th>4 bytes (32 bits)</th>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><strong>unsigned long long</strong> timestamp</td>
+  </tr>
+  <tr>
+    <td><strong>float</strong> acceleration.x</td>
+    <td><strong>float</strong> acceleration.x</td>
+  </tr>
+  <tr>
+    <td><strong>float</strong> acceleration.z</td>
+    <td><strong>float</strong> gyroscope.x</td>
+  </tr>
+   <tr>
+    <td><strong>float</strong> gyroscope.y</td>
+    <td><strong>float</strong> gyroscope.z</td>
+  </tr>
+   <tr>
+    <td><strong>float</strong> gyroscope.drift.x</td>
+    <td><strong>float</strong> gyroscope.drift.y</td>
+  </tr>
+   <tr>
+    <td><strong>float</strong> gyroscope.drift.z</td>
+    <td></td>
+  </tr>
+</table> 
