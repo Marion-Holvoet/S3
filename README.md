@@ -19,7 +19,15 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
    1. Item 3a
    1. Item 3b
  
-![logo](Logo_AsTICo.png)
+ <p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="Logo_AsTICo.png" width="20%">
+</p>
+
 
 http://github.com - automatic!
 [GitHub](http://github.com)
