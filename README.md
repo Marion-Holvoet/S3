@@ -1,8 +1,8 @@
  
  <p align="center">
-  <b>Some Links:</b><br>
+ <b><strong>Samsung Gear S3 Project</strong></b><br>
   <a href="#Watch">Samsung Gear S3 Watch</a> |
-  <a href="#Data">Data Structure</a>
+  <a href="#Data Structure">Data Structure</a>
   <br><br>
   <img src="Logo_AsTICo.png" width="20%">
 </p>
@@ -10,14 +10,14 @@
 
 # Watch
 
-[S3](s3.jpeg)
+[S3](S3.jpeg)
 
 * Item 1
 * Item 2
   * Item 2a
   * Item 2b
 
-# Data
+# Data Structure
 
 typedef struct {
   unsigned long long timestamp;
