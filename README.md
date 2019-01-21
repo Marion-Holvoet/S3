@@ -19,7 +19,7 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
    1. Item 3a
    1. Item 3b
 
-![MontpellierUniLogo](Logo_AsTICo.png)
+<img src="Logo_AsTICo.png" style="float:center" width="30%">
 
 http://github.com - automatic!
 [GitHub](http://github.com)
