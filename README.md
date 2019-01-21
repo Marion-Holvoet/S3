@@ -1,7 +1,7 @@
  
-<p align="center" style="color:red;">
- Samsung Gear S3 Project
-</p>
+<h1 align="center">
+ <strong>Samsung Gear S3 Project</strong>
+</h1>
 <p align="center">
   <a href="#Watch">Samsung Gear S3 Watch</a> |
   <a href="#Data">Data Structure</a>
