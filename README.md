@@ -8,9 +8,7 @@
 </p>
 
 
-[Watch]
-
-# S3 Watch
+# Watch
 
 [S3](s3.jpeg)
 
@@ -19,9 +17,7 @@
   * Item 2a
   * Item 2b
 
-[Data]
-
-# Data Structure
+# Data
 
 typedef struct {
   unsigned long long timestamp;
