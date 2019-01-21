@@ -6,7 +6,7 @@
  <p align="center">
   <a href="#Watch">Samsung Gear S3 Watch</a> |
   <a href="#Data">Data Structure</a>
-  <br><br>
+  <br>
   <img src="Logo_AsTICo.png" width="20%">
 </p>
 
