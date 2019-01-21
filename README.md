@@ -17,9 +17,7 @@
   * Item 2a
   * Item 2b
 
-# Data Structure
-
-<a href="#">Top</a>
+# Data Structure<a href="#">Top</a>
 
 typedef struct {
   unsigned long long timestamp;
