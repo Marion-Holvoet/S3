@@ -8,7 +8,7 @@
 </p>
 
 
-[Samsung Gear S3 Watch]
+Samsung Gear S3 Watch:
 
 # S3 Watch
 
@@ -19,7 +19,7 @@
   * Item 2a
   * Item 2b
 
-[Data Structure]
+Data Structure:
 
 # Data Structure
 
