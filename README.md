@@ -2,7 +2,7 @@
  <p align="center">
  <b><strong>Samsung Gear S3 Project</strong></b><br>
   <a href="#Watch">Samsung Gear S3 Watch</a> |
-  <a href="#Data Structure">Data Structure</a>
+  <a href="#Data">Data Structure</a>
   <br><br>
   <img src="Logo_AsTICo.png" width="20%">
 </p>
@@ -17,7 +17,7 @@
   * Item 2a
   * Item 2b
 
-# Data Structure
+# Data
 
 <a href="#">Top</a>
 
