@@ -18,6 +18,7 @@
   * Item 2b
 
 # Data Structure
+
 <a href="#">Top</a>
 
 typedef struct {
