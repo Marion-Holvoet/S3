@@ -49,7 +49,7 @@ typedef struct {
   } gyroscope;
 } WatchData;
 ```
-WatchData uses 48 bytes as shown by C sizeof and it's mapping in memory is:
+sizeof(WatchData) is 48 bytes (6 times 8) and it's mapping in memory is:
  <table>
   <tr>
     <th>4 bytes (32 bits)</th>
