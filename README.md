@@ -2,14 +2,14 @@
  <p align="center">
   <b>Some Links:</b><br>
   <a href="#">Samsung Gear S3 Watch</a> |
-  <a href="#">Data Structure</a> |
-  <a href="#">Link 3</a>
+  <a href="#">Data Structure</a>
   <br><br>
   <img src="Logo_AsTICo.png" width="20%">
 </p>
 
 
 [Samsung Gear S3 Watch]
+
 # S3 Watch
 
 [S3](s3.jpeg)
