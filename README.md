@@ -7,10 +7,7 @@
   <img src="Logo_AsTICo.png" width="20%">
 </p>
 
-<p>
-<a href="#">Top</a>
-# Watch
-</p>
+<h1><a href="#Watch">Samsung Gear S3 Watch</a></h1>
 
 <img src="s3.jpeg" width="20%">
 
@@ -19,10 +16,7 @@
   * Item 2a
   * Item 2b
 
-<p>
-<a href="#">Top</a>
-# Data
-</p>
+<h1><a href="#Data">Data Structure</a></h1>
 
 typedef struct {
   unsigned long long timestamp;
