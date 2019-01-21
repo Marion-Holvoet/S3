@@ -7,8 +7,10 @@
   <img src="Logo_AsTICo.png" width="20%">
 </p>
 
+<p>
 <a href="#">Top</a>
 # Watch
+</p>
 
 <img src="s3.jpeg" width="20%">
 
@@ -17,8 +19,10 @@
   * Item 2a
   * Item 2b
 
+<p>
 <a href="#">Top</a>
 # Data
+</p>
 
 typedef struct {
   unsigned long long timestamp;
