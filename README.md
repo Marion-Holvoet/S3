@@ -1,5 +1,5 @@
  
- <p align="center" style="text-color:red;">
+ <p align="center" style="color:red;">
  <b>Samsung Gear S3 Project</b>
  </p>
 
