@@ -19,9 +19,11 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
    1. Item 3a
    1. Item 3b
 
-<center>
+<div style="text-align:center; display:block">
+ logo
  <img src="Logo_AsTICo.png" width="30%">
-</center>
+ logo
+</div>
 
 http://github.com - automatic!
 [GitHub](http://github.com)
