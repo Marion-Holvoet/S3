@@ -1,6 +1,6 @@
  
 <h1 align="center">
- <strong>Samsung Gear S3 Projectt</strong>
+ <strong>Samsung Gear S3 Project</strong>
 </h1>
 <p align="center">
   <a href="#Watch">Samsung Gear S3 Watch</a> |
